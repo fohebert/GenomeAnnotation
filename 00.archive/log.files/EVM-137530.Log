@@ -1,0 +1,5 @@
+Error, weights file 07.EVidenceModeler/evidence_weight.tsv must be specified by the full path
+All commands executed successfully.
+Parsing /project/nabhorth/users/fogah/01.current.projects/01.lymatria.dispar/GenomeAnnotation/tig00030421/tig00030421_90001-190000/evm.out
+Aucun fichier ou dossier de ce type at /home/fogah/prg/EVidenceModeler-1.1.1/EvmUtils/recombine_EVM_partial_outputs.pl line 86.
+/var/spool/slurm/slurmd/job137530/slurm_script: line 56: /home/fogah/prg/EVidenceModeler-1.1.1/EvmUtils/convert_EVM_outputs_to_gff3.pl: Aucun fichier ou dossier de ce type

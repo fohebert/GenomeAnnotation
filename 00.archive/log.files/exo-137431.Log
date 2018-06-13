@@ -1,0 +1,6 @@
+Command line: [exonerate --model protein2genome --bestn 5 --percent 60 --showsugar no --showvulgar no --showalignment no --showquerygff yes -q swissprot_reformattedNames.fasta -t lda.fasta.masked.namesok]
+Hostname: [manitou]
+slurmstepd: error: Job 137431 exceeded memory limit (841671364 > 838860800), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 137431 ON manitou CANCELLED AT 2017-05-20T11:42:57 ***
+slurmstepd: error: proctrack_p_wait: Unable to destroy container 83126 in cgroup plugin, giving up after 128 sec

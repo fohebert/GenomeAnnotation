@@ -1,0 +1,213 @@
+check before run
+create directories
+commit input data
+data report
+commit training data
+training data report
+prepare initial model
+get GC of sequence
+GC 33
+build initial ES model
+running step ES_A
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_A_1
+training level ES_A: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_A_1
+Initial	7025
+Internal	14628
+Terminal	7307
+Single	1198
+Intron:	22353	117463755
+Intergenic:	2472	10922440
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_A_2
+training level ES_A: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_A_2
+Initial	8816
+Internal	20085
+Terminal	9170
+Single	1309
+Intron:	29700	135316112
+Intergenic:	3467	14834140
+running step ES_B
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_B_1
+training level ES_B: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_B_1
+Initial	9584
+Internal	28465
+Terminal	10032
+Single	1221
+Intron:	39081	166971829
+Intergenic:	4011	17422942
+running step ES_C
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_1
+training level ES_C: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_1
+Initial	11527
+Internal	54974
+Terminal	11981
+Single	1761
+Intron:	67626	176966739
+Intergenic:	5104	18693108
+SvsM  0.122472996259404 vs 0.877527003740596
+genes in IvsT: 12528
+1, -2.02901068805294
+2, -1.88716543906071
+3, -1.97580665198948
+4, -2.07944154167984
+5, -2.25412947361872
+6, -2.43903993005405
+7, -2.74363767572396
+8, -3.07441894065759
+9, -3.29799436414435
+10, -3.62458042525388
+11, -3.9222926720656
+12, -4.23722438696476
+13, -4.50846773307338
+14, -4.62353706285817
+15, -4.84060156809599
+16, -5.06627356576356
+17, -5.39267015039603
+18, -5.52369841280244
+19, -5.85220247977447
+20, -6.30022720230143
+21, -6.72767121712837
+22, -6.72767121712837
+23, -6.79666408861533
+26, -6.95081476844258
+IvsT  0.787387354432386 vs 0.212612645567614
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_2
+training level ES_C: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_2
+Initial	12704
+Internal	71352
+Terminal	13159
+Single	1353
+Intron:	85285	186588239
+Intergenic:	5666	21405570
+SvsM  0.0896003775959723 vs 0.910399622404028
+genes in IvsT: 13798
+1, -2.18047906404828
+2, -2.02733686470988
+3, -2.07351624072509
+4, -2.18497923236289
+5, -2.23722251664342
+6, -2.43473008249126
+7, -2.68215276696055
+8, -2.9406052010974
+9, -3.23701293166641
+10, -3.39671404202431
+11, -3.62419599493712
+12, -3.9412919525952
+13, -4.06421879197092
+14, -4.33932208221584
+15, -4.7701049983083
+16, -4.82274873179372
+17, -4.79608048471156
+18, -5.34262419107963
+19, -5.5069272423709
+20, -5.58103521452463
+21, -5.62025592767791
+22, -6.09829172862091
+23, -6.09829172862091
+24, -6.58783995393961
+25, -6.53654665955206
+26, -6.69906558904984
+27, -6.96732957564452
+28, -7.22969384011201
+29, -6.75969021086627
+IvsT  0.817591135707882 vs 0.182408864292118
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_3
+training level ES_C: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_3
+Initial	12952
+Internal	74416
+Terminal	13427
+Single	1253
+Intron:	88599	184096466
+Intergenic:	5632	21430388
+SvsM  0.0820476858345021 vs 0.917952314165498
+genes in IvsT: 14050
+1, -2.17386954843567
+2, -2.04488540002447
+3, -2.12442401768435
+4, -2.21670127910421
+5, -2.21931736954326
+6, -2.45531329747476
+7, -2.64162289544667
+8, -2.95596421501211
+9, -3.18562691790998
+10, -3.38706287072725
+11, -3.59713434047411
+12, -3.92275656107125
+13, -4.03292477829718
+14, -4.37989367972374
+15, -4.57364393234132
+16, -4.75458712916515
+17, -4.80544554639864
+18, -5.18092982229487
+19, -5.50732640692734
+20, -5.36072293273547
+21, -5.679176663854
+22, -5.99502961327248
+23, -6.02401715014573
+24, -6.45933522140358
+25, -6.45933522140358
+26, -6.71716433070568
+27, -6.91132034514663
+28, -6.84232747365968
+29, -6.84232747365968
+30, -7.24779258176785
+IvsT  0.822208108650878 vs 0.177791891349122
+running gm.hmm on local multi-core system
+6481 contigs in training
+concatenate predictions: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_4
+training level ES_C: /project/rclevesq/partage/annotation_lda/03-genemark/run/ES_C_4
+Initial	13022
+Internal	75197
+Terminal	13505
+Single	1228
+Intron:	89441	182450225
+Intergenic:	5637	21415360
+SvsM  0.0804043545878694 vs 0.919595645412131
+genes in IvsT: 14107
+1, -2.17604269407779
+2, -2.06333881353963
+3, -2.12906852004735
+4, -2.20648258392582
+5, -2.247895008135
+6, -2.43479076905687
+7, -2.64068905641482
+8, -2.91979304921282
+9, -3.15085220913969
+10, -3.4016937123704
+11, -3.62750038110409
+12, -3.87767260480622
+13, -4.10768903540819
+14, -4.35041971999771
+15, -4.54379111297825
+16, -4.71814450012302
+17, -4.85394604128209
+18, -5.10007911082099
+19, -5.47688896316878
+20, -5.38003913717887
+21, -5.52907471633935
+22, -6.02806588245834
+23, -6.18713057708803
+24, -6.3355505822063
+25, -6.60998742790806
+26, -6.55869413352051
+27, -6.84637620597229
+28, -6.78183768483472
+29, -6.98947704961297
+30, -7.0695197572865
+IvsT  0.82328770030982 vs 0.17671229969018
+predict final gene set
+running gm.hmm on local multi-core system
+22167 contigs in training
+22167 contigs in training
+here

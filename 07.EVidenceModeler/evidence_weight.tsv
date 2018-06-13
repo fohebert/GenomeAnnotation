@@ -1,0 +1,5 @@
+ABINITIO_PREDICTION GeneMark.hmm    1
+PROTEIN exonerate   5
+PROTEIN Scipio  5
+TRANSCRIPT BLAT    1 
+TRANSCRIPT  assembler-pasadb_luca  10

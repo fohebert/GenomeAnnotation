@@ -1,0 +1,19 @@
+
+
+Building a new DB, current time: 05/08/2017 11:36:00
+New DB name:   /home/fogah/blast/databases/lda.unmasked.genome
+New DB title:  lda.unmasked.genome
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File 01.raw.data/lda.unmasked.fasta does not exist
+
+
+Building a new DB, current time: 05/08/2017 11:36:00
+New DB name:   /home/fogah/blast/databases/lda.transcriptome
+New DB title:  lda.transcriptome
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 96946 sequences in 3.68127 seconds.
+BLAST Database error: No alias or index file found for nucleotide database [/home/fogah/blast/databases/lda.unmasked.genome] in search path [/project/nabhorth/users/fogah/01.current.projects/01.lymatria.dispar/GenomeAnnotation::]

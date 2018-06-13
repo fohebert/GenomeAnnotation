@@ -1,0 +1,9 @@
+
+
+Building a new DB, current time: 05/08/2017 12:27:34
+New DB name:   /home/fogah/blast/databases/lda.longestORFs.pep
+New DB title:  lda.longestORFs.pep
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 36746 sequences in 1.13509 seconds.

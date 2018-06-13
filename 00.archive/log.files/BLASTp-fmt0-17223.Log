@@ -1,0 +1,7 @@
+parallel: Warning: A record was longer than 1024. Increasing to --blocksize 1333.
+parallel: Warning: A record was longer than 1333. Increasing to --blocksize 1734.
+parallel: Warning: A record was longer than 1734. Increasing to --blocksize 2256.
+parallel: Warning: A record was longer than 2256. Increasing to --blocksize 2934.
+parallel: Warning: A record was longer than 2934. Increasing to --blocksize 3816.
+parallel: Warning: A record was longer than 3816. Increasing to --blocksize 4962.
+parallel: Warning: A record was longer than 4962. Increasing to --blocksize 6452.
