@@ -3,7 +3,7 @@ Annotation pipeline developed for large insect genomes (e.g. Lymantria dispar sp
 
 ## Disclaimer
 
-:point_right: **Do not use this pipeline 'as is'** | **Optimization required** :gray_exclamation:
+:point_right: **Do not use this pipeline 'as is'** | **Optimization required** :point_left:
 
 This pipeline was developped and optimized to work on a specific cluster using the [Slurm Workload Manager](https://slurm.schedmd.com/). Codes and scripts included in this pipeline are thus "platform-specific" and must be adjusted according to your needs, dataset, available computer resources, and workload manager.
 
