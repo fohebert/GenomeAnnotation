@@ -15,7 +15,7 @@ This pipeline takes adavantage of multiple open source softwares, programs and u
 
 ## Prerequisites
 
-- `Python 2.7` 
+- `Python 2.7` | `BioPython`
 - `blastplus` (available on NCBI's [webpage](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download))
 - `UniprotKB-SwissProt` and `nr` blast databases
 - `gnu parallel`
@@ -26,4 +26,8 @@ This pipeline takes adavantage of multiple open source softwares, programs and u
 - `scipio` (available [here](https://webscipio.org/webscipio/download_scipio))
 - `EVidenceModeler` (available [here](http://evidencemodeler.github.io/))
 - `PASA` (available [here](https://github.com/PASApipeline/PASApipeline/wiki))
-- 
+- `augustus` (available [here](http://bioinf.uni-greifswald.de/augustus/))
+
+## Description
+
+The overall script `runAll.sh`
