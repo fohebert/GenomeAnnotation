@@ -3,7 +3,7 @@ Annotation pipeline developed for large insect genomes (e.g. Lymantria dispar sp
 
 ## Disclaimer
 
-**Do not use this pipeline 'as is'** | **Optimization required**
+:gray_exclamation: **Do not use this pipeline 'as is'** | **Optimization required** :gray_exclamation:
 
 This pipeline was developped and optimized to work on a specific cluster using the [Slurm Workload Manager](https://slurm.schedmd.com/). Codes and scripts included in this pipeline are thus "platform-specific" and must be adjusted according to your needs, dataset, available computer resources, and workload manager.
 
@@ -15,7 +15,7 @@ This pipeline takes adavantage of multiple open source softwares, programs and u
 
 ## Prerequisites
 
-- `Python 2.7` :shipit:
+- `Python 2.7` 
 - `blastplus` (available on NCBI's [webpage](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download))
 - `UniprotKB-SwissProt` and `nr` blast databases
 - `gnu parallel`
