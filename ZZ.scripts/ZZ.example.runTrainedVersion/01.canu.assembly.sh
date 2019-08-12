@@ -17,7 +17,7 @@ CANU='/home/fogah/prg/canu/Linux-amd64/bin'
 # RUNNING THE PROGRAM
 ${CANU}/canu -p ldj \
     -d 02.canu/auto.2017-05-26 \
-    genomeSize=1.5g \
+    genomeSize=1.0g \
     -pacbio-raw ${READS}/*.fastq.gz \
     usegrid=0 \
     -maxMemory=800 \
